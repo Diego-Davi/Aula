@@ -1,0 +1,6 @@
+#!/bin/bash
+chmod +x comman.sh
+
+chmod u+w,go=r comman.sh
+
+./comman.sh
